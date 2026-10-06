@@ -1,7 +1,6 @@
 # Paulo Henrique
 
-Desenvolvedor backend em Python. Construo APIs com FastAPI e Pydantic, do
-modelo de dados à documentação.
+Desenvolvedor Backend especializado em Python e FastAPI. Projeto e construo APIs REST robustas, escaláveis e altamente documentadas — do modelo de dados e regras de negócio à validação rigorosa com Pydantic, garantindo alta performance, segurança e confiabilidade para aplicações modernas.
 
 ## Projetos
 
