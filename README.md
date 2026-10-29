@@ -1,58 +1,71 @@
-# Paulo Henrique
+# Paulo Henrique da Silva Campelo
 
-Desenvolvedor Backend com foco em Python, FastAPI e ecossistema .NET. Construo APIs REST robustas, escaláveis e seguras — da modelagem de dados à validação rigorosa com Pydantic, garantindo alta performance e confiabilidade para aplicações modernas.
+Estudante de **Inteligência Artificial** na UniFatecie, com conclusão prevista para 2028. Foco em automação, agentes inteligentes e aplicações com **Retrieval-Augmented Generation (RAG)**. Desenvolvo projetos práticos que conectam documentos, bancos de dados e modelos de linguagem para consultar informações e automatizar tarefas.
 
-## Projetos
+Busco uma oportunidade de **estágio ou nível júnior** para contribuir com soluções de IA e continuar evoluindo por meio de desafios reais.
 
-| Projeto | Descrição |
-|---|---|
-| [api-vagas](https://github.com/phdev1991/api-vagas) | API REST de gerenciamento de vagas em FastAPI. CRUD completo, validação de dados, tratamento de erros e documentação automática pelo Swagger. |
-| [app-financeiro](https://github.com/phdev1991/app-financeiro) | Backend de app financeiro em Python/FastAPI. Validação estrita com Pydantic, autenticação JWT e foco em confiabilidade de transações. |
-| [gastos-graficos](https://github.com/phdev1991/gastos-graficos) | Lê CSV exportado do banco, agrupa lançamentos por mês e gera gráfico de barras. Detecta sozinho a coluna de data e de valor, então funciona com CSVs de formatos diferentes. |
-| [carrinho-de-compras-node](https://github.com/phdev1991/carrinho-de-compras-node) | Serviço de carrinho de compras em Node.js com operações assíncronas: adicionar, remover, calcular subtotal e total. |
-| [gh-recruiter-agent](https://github.com/phdev1991/gh-recruiter-agent) | Ferramenta CLI em Python que audita um perfil público do GitHub e apointa o que enfraquece a apresentação para recrutamento. |
+📍 Recife, Pernambuco, Brasil
 
-## Stack
+## Formação
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Graduação em Inteligência Artificial** — UniFatecie
+Conclusão prevista para 2028.
 
-### Frameworks & Bibliotecas
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Dapper](https://img.shields.io/badge/Dapper-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+## Projetos em destaque
 
-### Bancos de Dados
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### Nexa Mind AI
 
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Plataforma de consulta inteligente a documentos usando RAG. O fluxo no n8n processa documentos, gera embeddings e armazena as informações no PostgreSQL com pgvector. A recuperação de contexto permite responder a perguntas em linguagem natural com base nos documentos indexados. O projeto utiliza Ollama e serviços executados localmente com Docker.
 
-### Ferramentas
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+→ [github.com/phdev1991/nexa-mind](https://github.com/phdev1991/nexa-mind)
+
+### Dossiê Corporativo
+
+Sistema inteligente de análise empresarial automatizada com agentes de IA. A partir de um dossiê de entrada, o sistema pesquisa dados externos na web, enriquece o dossiê e redige um relatório executivo com agentes de IA (CrewAI e busca com DuckDuckGo Search), com saída formatada em Markdown ou HTML.
+
+→ [github.com/phdev1991/dossie-corporativo](https://github.com/phdev1991/dossie-corporativo)
+
+## Outros projetos
+
+**Controle Financeiro Pessoal** — sistema full-stack de controle financeiro pessoal, desenvolvido como teste técnico para posição FullStack Júnior: back-end em Node.js, Express e TypeScript, front-end em Next.js e React.
+→ [github.com/phdev1991/controle-financeiro](https://github.com/phdev1991/controle-financeiro)
+
+**gh-recruiter-agent** — agente de linha de comando em Python que audita um perfil público do GitHub e mostra o que um recrutador técnico enxerga nele, com achados priorizados por impacto.
+→ [github.com/phdev1991/gh-recruiter-agent](https://github.com/phdev1991/gh-recruiter-agent)
+
+**Project Clone** — recriação de uma interface com TypeScript e apoio do Claude Code, com foco em fidelidade visual e interatividade.
+→ [github.com/phdev1991/Project-Clone---Desenvolvido-com-Claude-Code](https://github.com/phdev1991/Project-Clone---Desenvolvido-com-Claude-Code)
+
+**API CRUD com Node** — operações de criação, leitura, atualização e exclusão.
+→ [github.com/phdev1991/Criando-API-CRUD-com-Node](https://github.com/phdev1991/Criando-API-CRUD-com-Node)
+
+**Carrinho de Compras Node** — operações assíncronas para gerenciamento de itens e cálculo de subtotal e total.
+→ [github.com/phdev1991/carrinho-de-compras-node](https://github.com/phdev1991/carrinho-de-compras-node)
+
+**Simulador de Corrida** — simulação desenvolvida em JavaScript.
+→ [github.com/phdev1991/simulador-de-corrida-](https://github.com/phdev1991/simulador-de-corrida-)
+
+## Tecnologias
+
+**Linguagens:** JavaScript · TypeScript · Python
+
+**Desenvolvimento:** Node.js · APIs CRUD · Express · Next.js · React · FastAPI · Pydantic
+
+**IA e automação:** n8n · RAG · agentes de IA · Ollama · embeddings · engenharia de prompts · CrewAI
+
+**Bancos de dados:** PostgreSQL · pgvector · MySQL
+
+**Infraestrutura:** Docker
+
+**Ferramentas:** Claude Code · ferramentas no-code/low-code
+
+## Cursos
+
+- Agentic Builder — No-Code Startup
+- Claude Code Pro
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/in/campelo-front-end/)
+- **E-mail:** [phcampelo1991@gmail.com](mailto:phcampelo1991@gmail.com)
+- **LinkedIn:** [linkedin.com/in/campelo-front-end](https://www.linkedin.com/in/campelo-front-end/)
+- **GitHub:** [@phdev1991](https://github.com/phdev1991)
